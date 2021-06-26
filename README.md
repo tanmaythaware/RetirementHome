@@ -1,8 +1,9 @@
-# RetirementHome
+# *Retirement Home*
 This is an application called "Retirement Home" made using Java and MySQL on NetBeans IDE. If you are someone who's circumstances wont allow them to stay with their elderly relatives and are in need of a helping hand, this is the right place for you. Retirement Home is an application in which you can register your elderly relative to live a safe and carefree life they have been dreaming about.
 
+***
 
-# Signup
+# *Signup*
 ![Screenshot(12)](https://user-images.githubusercontent.com/85193272/123523964-ea7ed400-d6e4-11eb-913c-411d6789f36b.png)
 
 ## Enter the details and you will get the following msg:
@@ -11,14 +12,16 @@ This is an application called "Retirement Home" made using Java and MySQL on Net
 
 ## After Signing up you will need to login.
 
+***
 
-# Login 
+# *Login*
 ![Screenshot(5)](https://user-images.githubusercontent.com/85193272/123523871-662c5100-d6e4-11eb-92b7-619302de8718.png)
 
 ## Enter the login details and Home will open
 
+***
 
-# Home
+# *Home*
 
 ## Fill the application form and the data will be stored in the table.
 
@@ -28,15 +31,17 @@ This is an application called "Retirement Home" made using Java and MySQL on Net
 
 ![Screenshot(9)](https://user-images.githubusercontent.com/85193272/123524041-5cefb400-d6e5-11eb-8dfd-0f9fa848a1cb.png)
 
+***
 
-# Admin Window
+# *Admin Window*
 
 ## Enter admin as email and admin as password in Login and you will be directed to Admin window where all the users that have signed up can be found.
 
 ![Screenshot(10)](https://user-images.githubusercontent.com/85193272/123524042-5d884a80-d6e5-11eb-8bbc-f0acd48bb924.png)
 
+***
 
-# Forgot Password?
+# *Forgot Password?*
 
 ## Functionality to change the password if forgotten.
 
