@@ -1,1 +1,0 @@
-ftype jarfile="D:\New folder\bin\javaw.exe" -jar "%1" %*
